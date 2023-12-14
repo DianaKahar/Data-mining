@@ -1,1 +1,1 @@
-# Data-mining week 1
+# Data-mining assignment 1
